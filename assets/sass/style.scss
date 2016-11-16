@@ -1,3 +1,6 @@
+$basecolor:#7F123A;
+
+
 * {
   margin: 0;
   padding: 0; 
@@ -25,7 +28,7 @@
       position: absolute;
       height: 9px;
       width: 100%;
-      background: #7F123A;
+      background: $basecolor;
       border-radius: 9px;
       opacity: 1;
       left: 0;
